@@ -14,9 +14,9 @@ p {
   background-color: #A52A2A;
   width: 100%;
   height: 150px;
-  margin-right: 50;
-  margin-left: 50;
-  margin-top: 0;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 0px;
   font-family: Helvetica;
   color: white;
 }
@@ -26,7 +26,6 @@ p {
 	margin-top:20px;
 	margin-left:10px;
 	margin-right:10px;
-	/*border-color:black;*/
 	padding:0;
 }
 .sectiontitle {
@@ -36,11 +35,21 @@ p {
   font-size: 125%;
   height: 1.2em;
   width:10em;
-  right: 0;
-  position: relative;
-  padding-top 5px;
-  margin-left: 0px;
 }
+/* section title color */
+#first {                 
+	background-color: gray;
+	color: black;
+}
+#second {
+	background-color: #671616;
+	color: white;
+}
+#third {
+	background-color: #c1aeae;
+	color: black;
+}
+
 .content{
   background-color: #008aff;
   border-color:#008aff;

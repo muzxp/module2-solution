@@ -1,2 +1,6 @@
 # module2-solution
-Assignment for Coursera C4M2
+This is an Assignment for Coursera C4M2.
+Thank you for visiting here.
+
+Mutsuji Takahashi
+
